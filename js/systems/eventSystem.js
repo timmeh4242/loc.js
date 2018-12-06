@@ -1,2 +1,5 @@
-var EventSystem = function() {};
+class EventSystem {
+
+};
+
 Object.assign(EventSystem.prototype, THREE.EventDispatcher.prototype);
